@@ -1,7 +1,7 @@
 # Site settings
 baseurl = "https://badreviews.netlify.com/"
 languageCode = "en"
-title = "Bad Reviews"
+title = "Pietro's Bad Reviews"
 theme = "hugo-theme-cactus-plus"
 googleAnalytics = "your_google_analytics_id"
 # Set the value to true if your site include CJK (Chinese, Japanese, and Korean languages) characters
@@ -48,7 +48,7 @@ hasCJKLanguage = false
 	home = ""
 	about = ""
 	archive = ""
-	subscribe = ""
+	#subscribe = ""
 
 	olderPosts = ""
 	newerPosts = ""
