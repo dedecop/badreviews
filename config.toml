@@ -15,7 +15,7 @@ hasCJKLanguage = false
 	twitter = "your_twitter_id"
 	facebook = "your_facebook_id"
 
-	enableRSS = true
+	enableRSS = false
 
 	enableToc = true
 
