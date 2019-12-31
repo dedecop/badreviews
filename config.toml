@@ -16,6 +16,7 @@ hasCJKLanguage = false
 	facebook = "your_facebook_id"
 
 	enableRSS = true
+
 	enableToc = true
 
 	enableDisqus = false
