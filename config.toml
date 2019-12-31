@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "badreviews.netlify.com"
+baseurl = "https://badreviews.netlify.com/"
 languageCode = "en"
 title = "Bad Reviews"
 theme = "hugo-theme-cactus-plus"
