@@ -16,7 +16,7 @@ weight: 10
 I think this is the 4th year in a row that this happens. I had a drink with 2 old friend that I originally met in 2015.
 <!--more-->
 
-One is called Mark and the other one is a superhero called Disappointment Panda. We had a couple of Burritos each, then we started drinking Margaritas. In the meantime, we all talked a lot. Well, technically, they talked, I have listened what they got to tell me. They did examine many cool subjects, such as music (talking about Megadeth and Beatles), the story of Buddha, and some wrapped up wisdom quoting things like Shakespeare and OCD. We had a lot of fun indeed. I think the literary salons Baudelaire used to hangout, where he also used to smoke pot and probably have acids, must have been similar to the experience I had, drugs aside.\
+One is called Mark and the other one is a superhero called Disappointment Panda. We had a couple of Burritos each, then we started drinking Margaritas. In the meantime, we all talked a lot. Well, technically, they talked, I have listened what they got to tell me. They did examine many cool subjects, such as music (talking about Megadeth and Beatles), the story of Buddha, and some wrapped up wisdom quoting things like Shakespeare and OCD. We had a lot of fun indeed. I think the literary salons Baudelaire used to hangout at, where he also used to smoke pot and probably have acids, must have been similar to the experience I had, drugs aside.\
 Oh right, I should probably warn you that after three or four Margaritas, severe bad humor was brought up at some point, but damn it was so funny. 
 
 
