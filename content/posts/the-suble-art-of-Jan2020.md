@@ -9,7 +9,7 @@ tags:
 - anti hero
 - philosophy
 
-title: The Suble Art of Not Giving a F*ck
+title: The Subtle Art of Not Giving a F*ck
 weight: 10
 ---
 
