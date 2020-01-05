@@ -11,7 +11,8 @@ title: Will My Cat Eat My Eyeballs?
 weight: 10
 ---
 
-Second book of 2020, let's get to it. <!--more-->
+Second book of 2020, let's get to it. 
+<!--more-->
 It is curious that I started this book after [this](https://www.goodreads.com/book/show/28257707-the-subtle-art-of-not-giving-a-f-ck) from Mark Manson, whose last chapter is about acknowledging and keeping in mind our own mortality. Well, here we have a funny, with cringe passages and full of bad humor, book about death. Though unlike Mark Manson's book, this isn't about death like in the Buddha kind of meaning, but more from the Addams Family mixed up with Dr. House point of view.
 
 *What do I think?* 
