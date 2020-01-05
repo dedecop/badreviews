@@ -12,7 +12,7 @@ hasCJKLanguage = false
 	description = "Site Description"
 	bio = "if you're looking for a good review than you're probably in the wrong place"
 
-	twitter = "your_twitter_id"
+	twitter = "pjetrinskij"
 	facebook = "your_facebook_id"
 
 	enableRSS = false

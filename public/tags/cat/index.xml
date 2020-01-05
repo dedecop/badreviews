@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pietro&#39;s Bad Reviews</title>
-    <link>/</link>
-    <description>Recent content on Pietro&#39;s Bad Reviews</description>
+    <title>cat on Pietro&#39;s Bad Reviews</title>
+    <link>/tags/cat/</link>
+    <description>Recent content in cat on Pietro&#39;s Bad Reviews</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 05 Jan 2020 08:50:00 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/cat/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>/posts/will-my-cat-eat-jan2020/</guid>
       <description>&lt;p&gt;Second book of 2020, let&#39;s get to it.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>The Subtle Art of Not Giving a F*ck</title>
-      <link>/posts/the-suble-art-of-jan2020/</link>
-      <pubDate>Wed, 01 Jan 2020 21:34:00 +0000</pubDate>
-      
-      <guid>/posts/the-suble-art-of-jan2020/</guid>
-      <description>&lt;p&gt;I think this is the 4th year in a row that this happens. I had a drink with 2 old friends that I originally met in 2015.&lt;/p&gt;</description>
     </item>
     
   </channel>
