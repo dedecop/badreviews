@@ -1,7 +1,6 @@
 ---
 author: Pietro De Deco
 date: 2020-01-01 21:34:00 
-
 linktitle: An annual meeting with a couple of old friends
 tags:
 - panda
@@ -9,7 +8,7 @@ tags:
 - fuck
 - anti hero
 - philosophy
-hidetime: true 
+
 title: The Subtle Art of Not Giving a F*ck
 weight: 10
 ---
