@@ -20,7 +20,7 @@ It is curious that I started this book after [this](https://www.goodreads.com/bo
 ![](/img/Im_in.jpg)
 
 I don't know whether the author likes his job as a mortician or not, but since she has to deal with corpses for all day, at least she is making fun out of it. Damn if she does. We should be all more like her, I guess. So she basically collected questions from children related to her **corpses decomposing knowledge** (damn I really wrote that) and try to answer to those kids without being too boring and morbid. She definetely manage to escape from the former. About the latter, well...it is morbid! And definitely gross. I guess the cool thing about this is that it force you out of your comfort zone (no relation to self help stuff tho) cause the subject it’s not common so it might be shaky for some people, though the funny way the stories are told make it enjoyable.\
-Still, **this shit ain’t for pussy**. You have been warned.
+Still, **this shit ain’t for pussies**. You have been warned.
 
 ![](/img/cat.jpg)
 
