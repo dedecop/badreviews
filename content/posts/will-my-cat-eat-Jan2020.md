@@ -6,6 +6,7 @@ tags:
 - death
 - questions
 - cat
+- grotesque
 
 title: Will My Cat Eat My Eyeballs?
 weight: 10
