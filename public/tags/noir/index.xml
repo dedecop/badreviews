@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>noir on Pietro&#39;s Bad Reviews</title>
+    <link>/tags/noir/</link>
+    <description>Recent content in noir on Pietro&#39;s Bad Reviews</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 21 Jan 2020 23:24:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/noir/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fight Club</title>
+      <link>/posts/fight-club-jan2020/</link>
+      <pubDate>Tue, 21 Jan 2020 23:24:00 +0000</pubDate>
+      
+      <guid>/posts/fight-club-jan2020/</guid>
+      <description>&lt;p&gt;I really need a break from this monotony, for this reason I gotta ask you something.
+Yeah, you, who are reading this.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
