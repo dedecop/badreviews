@@ -13,7 +13,7 @@ weight: 10
 When I was in 9th grade my math teacher gave us a couple of lessons about paradoxes. 
 <!--more-->
 
-The twin paradox, the birthday paradox, and the barber one, who took me like 10 years to make it my own. On the other hand, one that I managed to understand pretty easily, was the grandfather paradox, which tells the physics that going **back** in time is not really a thing (for proving something about going foward, we still have time). Suppose you go back  in time where your grandfather was young and strong. Imagine you stumble upon him, wandering in the street and surprise him like nothing before. Not like Lost Long Familiy, more like **"Put your hands where I can see them"**. And then you take a picture. A good one. One he's going to remember for all of his life. 
+The twin paradox, the birthday paradox, and the barber one, who took me like 10 years to make it my own. On the other hand, one that I managed to understand pretty easily, was the grandfather paradox, which tells the physics that going **back** in time is not really a thing (for proving something about going **foward**, we still have time). Suppose you go back  in time where your grandfather was young and strong. Imagine you stumble upon him, wandering in the street and surprise him like nothing before. Not like *Lost Long Familiy*, more like **"Put your hands where I can see them"**. And then you take a picture. A good one. One he's going to remember for all of his life. 
 
 ![](/img/rant.jpg)
 
@@ -28,7 +28,7 @@ This book is about hearing from people and friends, the biography of Buster Rant
 
 ![](/img/partycrashing2.jpg)
 
-Grown up Rant, before though before he got 30 (unlike the average italian guy) he saved up enough cash thanks to a tip from a weird stranger so he managed to leave his parent and moves to the city.
+Grown up Rant, though before he got 30 (unlike the average italian guy) he saved up enough cash thanks to a tip from a weird stranger so he managed to leave his parent and moves to the city.
 \
 And to pass the time, to feel alive, instead of  [attending meetings where strangers fight themselves for no reason](https://www.goodreads.com/book/show/36236124-fight-club?from_search=true&qid=SIZddwGWH7&rank=1), he prefer a demolition derby kind of thing called **Party Crashing**.
 This thing is basically a match in the streets where cars are crashing into each other for no reason. Cars usually host 4 players, each one with a specific role. In some cases there might be 5 players in a car, even if you'd feel pretty squeezy in that case though. When a team is missing a player, it wander around in a Cadillac shouting at strangers "Do you got money for fuel?", otherwise it's pointless to pick them up.
