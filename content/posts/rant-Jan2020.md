@@ -7,7 +7,7 @@ tags:
 - sci-fi
 - filth
 
-title: Going Back in Time is not a thing
+title: Going Back in Time is Not a Thing
 weight: 10
 ---
 When I was in 9th grade my math teacher gave us a couple of lessons about paradoxes. 
