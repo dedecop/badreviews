@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>filth on Pietro&#39;s Bad Reviews</title>
-    <link>/tags/filth/</link>
-    <description>Recent content in filth on Pietro&#39;s Bad Reviews</description>
+    <title>sci-fi on Pietro&#39;s Bad Reviews</title>
+    <link>/tags/sci-fi/</link>
+    <description>Recent content in sci-fi on Pietro&#39;s Bad Reviews</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 31 Jan 2020 08:38:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/filth/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/sci-fi/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>/posts/rant-jan2020/</guid>
       <description>&lt;p&gt;When I was in 9th grade my math teacher gave us a couple of lessons about paradoxes.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Filth</title>
-      <link>/posts/filth-jan2020/</link>
-      <pubDate>Mon, 13 Jan 2020 07:46:00 +0000</pubDate>
-      
-      <guid>/posts/filth-jan2020/</guid>
-      <description>&lt;p&gt;My ears are not a toilet, but it seems Mr Irvine Welsh doesn&#39;t really care.&lt;/p&gt;</description>
     </item>
     
   </channel>

@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/posts/rant-jan2020/</loc>
+    <lastmod>2020-01-31T08:38:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/posts/fight-club-jan2020/</loc>
     <lastmod>2020-01-21T23:24:00+00:00</lastmod>
   </url>
@@ -23,12 +28,37 @@
   </url>
   
   <url>
-    <loc>/tags/anti-hero/</loc>
-    <lastmod>2020-01-21T23:24:00+00:00</lastmod>
+    <loc>/tags/filth/</loc>
+    <lastmod>2020-01-31T08:38:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/grotesque/</loc>
+    <lastmod>2020-01-31T08:38:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-01-31T08:38:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/</loc>
+    <lastmod>2020-01-31T08:38:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/sci-fi/</loc>
+    <lastmod>2020-01-31T08:38:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-01-31T08:38:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/anti-hero/</loc>
     <lastmod>2020-01-21T23:24:00+00:00</lastmod>
   </url>
   
@@ -40,26 +70,6 @@
   <url>
     <loc>/tags/philosophy/</loc>
     <lastmod>2020-01-21T23:24:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2020-01-21T23:24:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/</loc>
-    <lastmod>2020-01-21T23:24:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-01-21T23:24:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/filth/</loc>
-    <lastmod>2020-01-13T07:46:00+00:00</lastmod>
   </url>
   
   <url>
