@@ -1,6 +1,6 @@
 ---
 author: Pietro De Deco
-date: "2020-02-13 21:13:00"
+date: "2020-02-18 21:13:00"
 linktitle: Creating something from Ideas
 tags:
 - philosophy
