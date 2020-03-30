@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>cat on Pietro&#39;s Bad Reviews</title>
-    <link>/tags/cat/</link>
-    <description>Recent content in cat on Pietro&#39;s Bad Reviews</description>
+    <title>japan on Pietro&#39;s Bad Reviews</title>
+    <link>/tags/japan/</link>
+    <description>Recent content in japan on Pietro&#39;s Bad Reviews</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 30 Mar 2020 21:23:57 +0000</lastBuildDate>
     
-	<atom:link href="/tags/cat/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/japan/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>/posts/cats-disapp-mar2020/</guid>
       <description>&lt;p&gt;How japanese see death is something westerns would never grasp.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Will My Cat Eat My Eyeballs?</title>
-      <link>/posts/will-my-cat-eat-jan2020/</link>
-      <pubDate>Sun, 05 Jan 2020 08:50:00 +0000</pubDate>
-      
-      <guid>/posts/will-my-cat-eat-jan2020/</guid>
-      <description>&lt;p&gt;Second book of 2020, let&#39;s get to it.&lt;/p&gt;</description>
     </item>
     
   </channel>

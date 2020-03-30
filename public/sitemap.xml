@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/posts/cats-disapp-mar2020/</loc>
+    <lastmod>2020-03-30T21:23:57+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/posts/fango-mar2020/</loc>
     <lastmod>2020-03-07T18:57:00+00:00</lastmod>
   </url>
@@ -38,6 +43,41 @@
   </url>
   
   <url>
+    <loc>/tags/cat/</loc>
+    <lastmod>2020-03-30T21:23:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/death/</loc>
+    <lastmod>2020-03-30T21:23:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/japan/</loc>
+    <lastmod>2020-03-30T21:23:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/philosophy/</loc>
+    <lastmod>2020-03-30T21:23:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-03-30T21:23:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/</loc>
+    <lastmod>2020-03-30T21:23:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-03-30T21:23:57+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/grotesque/</loc>
     <lastmod>2020-03-07T18:57:00+00:00</lastmod>
   </url>
@@ -48,22 +88,7 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2020-03-07T18:57:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/</loc>
-    <lastmod>2020-03-07T18:57:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/short-stories/</loc>
-    <lastmod>2020-03-07T18:57:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2020-03-07T18:57:00+00:00</lastmod>
   </url>
   
@@ -74,11 +99,6 @@
   
   <url>
     <loc>/tags/fuck/</loc>
-    <lastmod>2020-02-18T21:13:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/philosophy/</loc>
     <lastmod>2020-02-18T21:13:00+00:00</lastmod>
   </url>
   
@@ -100,16 +120,6 @@
   <url>
     <loc>/tags/anti-hero/</loc>
     <lastmod>2020-01-21T23:24:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/cat/</loc>
-    <lastmod>2020-01-05T08:50:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/death/</loc>
-    <lastmod>2020-01-05T08:50:00+00:00</lastmod>
   </url>
   
   <url>
