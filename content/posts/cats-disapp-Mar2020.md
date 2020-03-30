@@ -13,6 +13,7 @@ weight: 10
 ---
 How japanese see death is something westerns would never grasp.
 <!--more--> 
+
 It must be some kind of cultural split. Which is the same thing I though when severals years ago read [Norwegian Wood](https://www.goodreads.com/book/show/11297.Norwegian_Wood?from_search=true&from_srp=true&qid=HxH5RIZWlZ&rank=1) that I haven't really liked. I'm pretty cool with drama, but maybe that was a bit too much.
 
 This is a cute book, some sort of modern fairytale with a catch. It tells how the world would be not if **cat would disappeared** as you might realize from its title, instead how would look like by making disappeare something to get a more day of living. *Great deal, huh?*
